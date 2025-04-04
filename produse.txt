@@ -1,0 +1,12 @@
+1|ArticolVestimentar|Tricou Metallica|5|90.0|Negru|Gildan
+2|ArticolVestimentar|Geaca Rock|10|250.0|Negru|CustomMade
+3|Disc|AC/DC – Back in Black|10|40.0|Universal|2020|5|25|ACDC|BackInBlack|CD
+4|Disc|Rolling Stones – Forty Licks|4|60.0|RollingMusic|2019|10|10|RollingStones|40Licks|VINIL
+5|DiscVintage|Pink Floyd – The Wall|10|100.0|Harvest|1979|3|15|PinkFloyd|TheWall|VINIL|1|3
+6|DiscVintage|Metallica – Kill 'Em All|10|120.0|Elektra|1983|7|25|Metallica|KillEmAll|CD|0|2
+7|ArticolVestimentar|Pantaloni de piele|5|150.0|Negru|NoBrand
+8|Disc|Deep Purple – Machine Head|3|50.0|Warner|1972|3|1|DeepPurple|MachineHead|CD
+9|ArticolVestimentar|Hanorac “Rock”|10|100.0|Gri|RockInc
+10|DiscVintage|Led Zeppelin – IV|1|110.0|Atlantic|1971|11|8|LedZeppelin|IV|VINIL|1|5
+11|ArticolVestimentar|Brățară punk|10|30.0|Negru|Handmade
+12|Disc|Queen – Greatest Hits|6|45.0|EMI|2011|6|6|Queen|GreatestHits|CD

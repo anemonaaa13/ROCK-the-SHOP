@@ -1,0 +1,10 @@
+1|Manager|Popescu|Ion|6041213105026|2022|5|1
+2|Manager|Hanus|Anemona|6041213105026|2023|12|13
+3|OperatorComenzi|Maria|Ionescu|6041213105026|2020|1|10
+4|OperatorComenzi|Vlad|Georgescu|5060918058149|2024|3|15
+5|OperatorComenzi|Cenusa|Catalin|1730109052261|2020|10|3
+6|OperatorComenzi|Grozoiu|Stefania|5000310059211|2019|2|4
+7|OperatorComenzi|Andrei|Stan|6041213105026|2023|2|1
+8|Asistent|Ioana|Tudor|1730918054064|2008|12|20
+9|Asistent|George|Vasile|6041213105026|2024|7|20
+10|Asisten|Ana|Marinescu|6041213105026|2010|6|15
